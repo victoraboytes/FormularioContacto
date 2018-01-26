@@ -2,13 +2,13 @@
 Proyecto Formulario de contacto semana 2
 Es un formulario de contacto donde solicites al usuario los siguientes datos:
 
-Nombre completo,
+-Nombre completo
 
-Fecha de nacimiento (picker de fecha),
+-Fecha de nacimiento (picker de fecha),
 
-teléfono,
+-Teléfono
 
-Email,
+Email
 
 Descripción del contacto.
 
