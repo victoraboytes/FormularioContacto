@@ -13,4 +13,4 @@ Email
 
 Descripción del contacto.
 
-Todos los campos EditText son de estilo Material Design.
+Todos los campos EditText son de estilo Material Design. Los screenshots están en el directorio de la app.
