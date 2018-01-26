@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     String name, date, phone, email, contactDescription;
     private Button btnNext;
 
+    String test = "Test";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
