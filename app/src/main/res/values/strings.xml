@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="name">Nombre completo</string>
+    <string name="phone">Teléfono</string>
+    <string name="date">Fecha de nacimiento</string>
+    <string name="email">Email</string>
+    <string name="contact_description">Descripción de contacto</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="btn_edit">Editar Datos</string>
+    <string name="pname">nombre</string>
+    <string name="pdate">date</string>
+    <string name="pphone">phone</string>
+    <string name="pemail">email</string>
+    <string name="pcontact_description">contact description</string>
+    <string name="btn_edit_action">button edit action</string>
+</resources>
