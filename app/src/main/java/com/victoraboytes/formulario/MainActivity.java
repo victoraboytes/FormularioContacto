@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button btnNext;
 
     String test = "Test";
+    boolean True = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
